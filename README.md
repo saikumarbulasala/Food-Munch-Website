@@ -113,9 +113,6 @@ npx serve .
 
 ---
 
-
----
-
 <div align="center">
 ✨ Crafted with care by Sai Kumar — where clean code meets responsive design.
 </div>
