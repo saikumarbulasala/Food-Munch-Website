@@ -11,17 +11,6 @@
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-  <img src="https://via.placeholder.com/900x500.png?text=Food+Munch+Homepage" alt="Food Munch homepage" width="45%" />
-  <img src="https://via.placeholder.com/900x500.png?text=Menu+%26+Order+Section" alt="Food Munch menu section" width="45%" />
-</div>
-
-> Replace these placeholders with real screenshots or a short GIF of the ordering flow — it's the fastest way to make this README land well with recruiters.
-
----
-
 ## 🧠 What is Food Munch?
 
 Food Munch is a fully responsive food ordering website focused on clean UI, structured navigation, and a smooth experience across mobile, tablet, and desktop. The project emphasizes mobile-first design principles and reusable, component-driven layout patterns using Bootstrap.
@@ -124,15 +113,9 @@ npx serve .
 
 ---
 
-## 👤 Author
-
-**Sai Kumar Bulasala**
-B.Tech IT Student | Aspiring Software Engineer
-
-[GitHub](https://github.com/saikumarbulasala) · [LinkedIn](https://linkedin.com/in/your-linkedin) · [Portfolio](#)
 
 ---
 
 <div align="center">
-Built with ❤️ by Sai Kumar
+✨ Crafted with care by Sai Kumar — where clean code meets responsive design.
 </div>
